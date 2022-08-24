@@ -26,7 +26,7 @@
    - Open another terminal / cmd window (in the project file) and run the jar file : </br>
      - java -jar OOP_EX4.jar  
 
-** There is also a release version , you can download it and run ir , have fun . :)
+## ** There is also a release version , you can download it and run it , have fun . :)
 
 # screen recording from the game 
 
